@@ -1,0 +1,10 @@
+.image{ 
+    position:absolute;
+    background-color: white;
+    margin-left: 125px;
+    top: 70px;
+    margin-bottom: 20px;
+    border-radius: 50%;
+    border: 6px solid white;
+  
+  }
