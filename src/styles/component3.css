@@ -1,0 +1,23 @@
+.action_button{
+    display: flex;
+    justify-content: end;
+    
+  }
+  .boton1{
+    font-family: 'Roboto', sans-serif;
+    background-color:#046BA5;
+    font-weight: 700;
+    color: white;
+    font-size: 18px;
+    width: 242px;
+    height: 48px;
+    border: 0;
+  }
+  .boton2{
+    background-color: #c7e6f9;
+    width: 51.12px;
+    height: 48.43px;
+    margin: 0 25px 20px 10px;
+  
+    border: 0;
+  }
