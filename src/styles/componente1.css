@@ -1,10 +1,15 @@
 .image{ 
     position:absolute;
-    background-color: white;
-    margin-left: 125px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 135px;
     top: 70px;
     margin-bottom: 20px;
     border-radius: 50%;
     border: 6px solid white;
-  
+  }
+  .back_image{
+    position: absolute;
+    left: 5.8%;
+    top: 2.79%;
+    
   }

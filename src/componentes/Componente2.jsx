@@ -1,7 +1,7 @@
 import React from 'react'
-import "../styles/compoente2"
+import "../styles/compoente2.css"
 
-function componente2() {
+function Componente2() {
   return (
     <div class="datos_personales">
     <span>Dianna</span>
@@ -14,4 +14,4 @@ function componente2() {
   )
 }
 
-export {componente2}
+export {Componente2}
